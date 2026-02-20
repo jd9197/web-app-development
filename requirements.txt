@@ -5,5 +5,5 @@ timm
 streamlit
 pillow
 numpy
-opencv-python-headless
 requests
+opencv-python-headless
