@@ -7,4 +7,3 @@ pillow
 numpy
 opencv-python-headless
 requests
-grad-cam
